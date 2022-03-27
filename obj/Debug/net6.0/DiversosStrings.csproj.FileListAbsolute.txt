@@ -1,0 +1,15 @@
+C:\Users\Daniele\DiversosStrings\bin\Debug\net6.0\DiversosStrings.exe
+C:\Users\Daniele\DiversosStrings\bin\Debug\net6.0\DiversosStrings.deps.json
+C:\Users\Daniele\DiversosStrings\bin\Debug\net6.0\DiversosStrings.runtimeconfig.json
+C:\Users\Daniele\DiversosStrings\bin\Debug\net6.0\DiversosStrings.dll
+C:\Users\Daniele\DiversosStrings\bin\Debug\net6.0\DiversosStrings.pdb
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.csproj.AssemblyReference.cache
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.AssemblyInfoInputs.cache
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.AssemblyInfo.cs
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.dll
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\refint\DiversosStrings.dll
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.pdb
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\DiversosStrings.genruntimeconfig.cache
+C:\Users\Daniele\DiversosStrings\obj\Debug\net6.0\ref\DiversosStrings.dll
